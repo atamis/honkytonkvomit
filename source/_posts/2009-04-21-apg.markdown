@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: APG
+wordpress_id: "137"
+wordpress_url: http://geeklob.wordpress.com/?p=137
+categories: Uncategorized
+---
+APG is really quite an interesting program. It randomly generates passwords. Big deal, I can write a ruby program that does that in one line. However, APG makes passwords that can be pronounced. This is amazingly usefull. This means that you can chooe a good, strong password, that you can easily remember.  In Ubuntu, you can install it with <em>sudo apt-get install apg</em>. It's quite usefull.
+
+-Indigo

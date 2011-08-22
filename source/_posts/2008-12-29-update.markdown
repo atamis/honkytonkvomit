@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Update
+wordpress_id: "94"
+wordpress_url: http://geeklob.wordpress.com/?p=94
+categories: Uncategorized
+---
+So, there has been some descussionn on the interblag (yes, I read xkcd) about KDE 4. Some people love it, some people hate it, and I don't like it. It might be the wierd start menu, or the inability to change mouse settings, or the fact that my heart is one size too small. What ever it is, it doesn't fit.
+
+I went on a window manager rampage, as soon as I learned how to choose the window manager from the login screen. I also install xfce, and decided not to use it, also for the inability to change mouse settings. On all linuxes except ones specialy configured, the mouse on my Acer moves at blinding speed, making the laptop unusable for about 15 minutes, after which I have sort of agusted to it, and it now only over shoots buttons half of the time, as oposed to 90 percent of the time. This also happens in puppy linux.
+
+Windows is completely broken. It is unable to resist suspending the laptop for 3 seconds. I believe is is something to do with the LCD cable, the part the acer people replaced in Texas. So, now I hate windows. Bad windows, BAD!
+
+-Indigo

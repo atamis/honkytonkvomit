@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: push_dir
+wordpress_id: "293"
+wordpress_url: http://geeklob.wordpress.com/?p=293
+categories: Uncategorized
+---
+Push_dir is a quick and dirty little ruby gem that simplifies working directory management, allowing you to write code looking like this:
+
+[sourcecode language="ruby"]
+include PushDir
+
+push_dir '/' do
+     # What you do here will be in '/'
+end
+# While what you do here will be where you were last.
+[/sourcecode]
+
+You can see it <a title="push_dir github repo" href="https://github.com/indigo747/push_dir">here</a>, or nab the gem with `gem install push_dir`

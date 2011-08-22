@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: RubyCrypt 1.0.1
+wordpress_id: "84"
+wordpress_url: http://geeklob.wordpress.com/?p=84
+categories: RubyCrypt
+---
+RubyCrypt 1.0.1 has been released. You can download it <a title="Download RubyCrypt!" href="//dl-client.getdropbox.com/u/89168/RubyCrypt/RubyCrypt1.0.1.rb" target="_blank">here</a>.
+
+New Features:
+<ul>
+	<li>Added the version option in the main menu.</li>
+	<li>You can now download it from my blog</li>
+</ul>
+And please, post the features you want to see in the comments!
