@@ -6,5 +6,7 @@ wordpress_url: http://geeklob.wordpress.com/?p=201
 categories: Poetry
 ---
 Step 1, start writing.
+
 Step 2, get distracted.
+
 ...

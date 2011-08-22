@@ -59,7 +59,8 @@ end
 {% endcodeblock%}
 
 
-Thanks to Mongoid, we can write consise like that. The redirection block is similarly simple.
+Thanks to Mongoid, we can keep the code nice and concise. The
+redirection block is fairly simple.
 
 {% codeblock redirection.rb %}
 get '/:ident' do |ident|
