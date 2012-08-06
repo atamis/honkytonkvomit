@@ -3,7 +3,8 @@ layout: post
 title: "Hacking Turntable for Fun and Music"
 date: 2011-11-25 15:12
 comments: true
-categories: node
+categories: code
+tags: [node, code]
 ---
 
 Previous Solutions
@@ -14,7 +15,7 @@ download the music you hear. If you hover over the track name in the UI, you can
 scrobble the track to Last.fm, find it in Spotify or Rdio, etc. Some people
 (myself included, but we'll get to that later) wanted to download the files
 being played.
-<!--more-->
+
 So, a Greasemonkey script was created to automatically download songs as
 they were played on Turntable. I've never tried this script because
 Turntable killed it somehow. This proves that Turntable doesn't like

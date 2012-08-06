@@ -3,7 +3,8 @@ layout: post
 title: Aquaria
 wordpress_id: "64"
 wordpress_url: http://geeklob.wordpress.com/?p=64
-categories: Ambrosia Software
+categories: games
+tags: [games]
 ---
 Hi all,
 

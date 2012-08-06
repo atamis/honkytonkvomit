@@ -3,6 +3,7 @@ layout: post
 title: YstSimRB
 wordpress_id: "129"
 wordpress_url: http://geeklob.wordpress.com/?p=129
-categories: Computers
+categories: code
+tags: [code, ruby]
 ---
-Got a new programing project on github: <a href="http://github.com/indigo747/ystsimrb">YstSimRB</a> Please provide positive criticism. No negative, please.
+Got a new programing project on github: <a href="http://github.com/atamis/ystsimrb">YstSimRB</a> Please provide positive criticism. No negative, please.

@@ -3,6 +3,7 @@ layout: post
 title: Bespin
 wordpress_id: "98"
 wordpress_url: http://geeklob.wordpress.com/?p=98
-categories: Programing
+categories: code
+tags: [javascript]
 ---
-For those who don't know (and no, it is not because you are stupid, this product is relativity hard to find.) <a href="https://bespin.mozilla.com/">Bespin</a> is a web based cloud IDE. That means you code on this website. I don't like this. As far as I can tell, you can't upload your own code. In fact, there doesn't seem like there are any ways you can actualy get any code other than your own on the site. Getting your own code on an IDE SO YOU CAN PROGRAM WITH IT is relativly important, and I personaly don't want to code only with the examples. So, while Bespin may be important in the future, and it certainly has potential, it isn't ready for prime time. Heck, it only at version 0.1.1 , Naughy Nimbus.
+For those who don't know (and no, it is not because you are stupid, this product is relativity hard to find.) <a href="https://bespin.mozilla.com/">Bespin</a> is a web based cloud IDE. That means you code on this website. I don't like this. As far as I can tell, you can't upload your own code. In fact, there doesn't seem like there are any ways you can actually get any code other than your own on the site. Getting your own code on an IDE SO YOU CAN PROGRAM WITH IT is relatively important, and I personally don't want to code only with the examples. So, while Bespin may be important in the future, and it certainly has potential, it isn't ready for prime time. Heck, it only at version 0.1.1, Naughy Nimbus.

@@ -3,6 +3,7 @@ layout: post
 title: List
 wordpress_id: "260"
 wordpress_url: http://geeklob.wordpress.com/?p=260
-categories: Computers
+categories: code
+tags: [ruby, code]
 ---
-In my quest to provide something everybody already has, I present to you List, a simple Linked List implementation in Ruby. You can get it <a href="http://github.com/indigo747/list">here</a>, if you really want to. This is my first experiment in test driven development, and it definitely produced many more tests than any other code I've written. We're talking 8 tests for 2 classes, some 13 or 14 tests. It worked pretty well, but I don't know if I'll do it again. Maybe I won't need to.
+In my quest to provide something everybody already has, I present to you List, a simple Linked List implementation in Ruby. You can get it <a href="http://github.com/atamis/list">here</a>, if you really want to. This is my first experiment in test driven development, and it definitely produced many more tests than any other code I've written. We're talking 8 tests for 2 classes, some 13 or 14 tests. It worked pretty well, but I don't know if I'll do it again. Maybe I won't need to.

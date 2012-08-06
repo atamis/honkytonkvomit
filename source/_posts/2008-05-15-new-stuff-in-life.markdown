@@ -3,7 +3,8 @@ layout: post
 title: New stuff in Life
 wordpress_id: "65"
 wordpress_url: http://geeklob.wordpress.com/?p=65
-categories: Gaming
+categories: games
+tags: [games, windows]
 ---
 Hi all
 

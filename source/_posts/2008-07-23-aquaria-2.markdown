@@ -3,11 +3,11 @@ layout: post
 title: "Aquaria #2"
 wordpress_id: "67"
 wordpress_url: http://geeklob.wordpress.com/?p=67
-categories: Gaming
+categories: games
+tags: [games, window]
 ---
 Hi all,
 
- 
 
 Well, we are on beta 3 of aquaria, and the beta testers have gotten licenses  to go beyond the demo area. This is very exciting and I have gotten pretty far. I am stuck on the fish cave, and how to get the song, and also on the Sun Temple boss. Thinking of getting an account on the Bit-Blot forums to ask for help.
 

@@ -3,13 +3,13 @@ layout: post
 title: Minecraft, Blender, and mcobj
 wordpress_id: "301"
 wordpress_url: http://geeklob.wordpress.com/?p=301
-categories: Uncategorized
+categories: games
+tags: [minecraft, mcobj, games]
 ---
 If you want to make images of your Minecraft world like <a href="http://i.imgur.com/c3Nsv.jpg">this</a>, <a href="http://i.imgur.com/hUxFo.jpg">this</a>, <a href="http://www.flickr.com/photos/macs4all/sets/72157626566696220/">these</a>, or <a href="http://quag.imgur.com/minecraft__blender">these</a>, you have come to the right place.
 
 This tutorial is aimed at *nix  (linux, mac, etc.) systems workflows, mainly because those are the systems I have. I will include windows instructions, but they aren't tested, or are tested less than the *nix instructions. Luckily, the differences shouldn't be too great.
 
-<!--more-->
 # Requirements
 <ul>
 	<li>A good computer. You need a computer capable of playing video games which are more demanding than Minecraft, and you basically require an actual graphics card.</li>

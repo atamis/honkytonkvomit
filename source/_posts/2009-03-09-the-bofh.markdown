@@ -3,6 +3,7 @@ layout: post
 title: the BOFH
 wordpress_id: "123"
 wordpress_url: http://geeklob.wordpress.com/?p=123
-categories: Uncategorized
+categories: computers
+tags: [link]
 ---
 The BOFH stands for something I am not able to print. Suffice to sa that there are 2 different swearwords in the title. It is located <a href="http://www.iinet.net.au/~bofh/index.html">here</a>. I think you need to read it. There are a lot of them though.
