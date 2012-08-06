@@ -7,7 +7,7 @@ require "stringex"
 ssh_user       = "heracles"
 document_root  = "~/honkytonkvomit"
 deploy_default = "push"
-ssh_port       = "22"
+ssh_port       = "2245"
 rsync_delete   = true
 deploy_default = "rsync"
 
